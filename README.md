@@ -1,8 +1,8 @@
-# [Meetups-NextJS-app]()
+# [Meetups-NextJS-app](https://meetups-next-js-app.vercel.app/)
 Meetups fulllstack app where you can see the list of meetups, add your meetup and see the details.
 
-![Demo]()
- ![Demo]()
+![Demo](https://github.com/KrystynaMil/Meetups-NextJS-app/blob/main/public/screen.png)
+ ![Demo](https://github.com/KrystynaMil/Meetups-NextJS-app/blob/main/public/screen1.png)
 ## Created with:
 
 - NextJS(Improved SEO) framework for ReactJS
